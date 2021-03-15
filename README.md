@@ -20,5 +20,6 @@ Linked List
 ---
 
 ### Certification
+It is only example for picture view. Not real certificate of Top learner earned by me.
 ![](img/TopLearnerCertificate.png)
 
