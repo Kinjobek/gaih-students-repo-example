@@ -1,4 +1,4 @@
-# GAIH Student Repo
+# GAIH Student Repo SARVARBEK
 ![](img/newlogo.png)
 
 **Course Date:** 12.03.2021  
@@ -9,12 +9,12 @@
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
 ## Project Name
-Files consist of three homeworks and final project.
+GlobalAIHubPythonCourse-Sarvarbek.
 
 ## Requirements
 ```
-import math
-import random
+OOP in python
+Linked List
 
 ```
 ---
